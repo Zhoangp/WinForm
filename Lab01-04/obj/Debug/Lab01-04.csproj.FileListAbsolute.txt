@@ -1,0 +1,8 @@
+\\Mac\Home\Downloads\2011064288_NguyenHoangPhuc_Lab\Lab01-04\obj\Debug\Lab01-04.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\2011064288_NguyenHoangPhuc_Lab\Lab01-04\obj\Debug\Lab01-04.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\2011064288_NguyenHoangPhuc_Lab\Lab01-04\obj\Debug\Lab01-04.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\2011064288_NguyenHoangPhuc_Lab\Lab01-04\bin\Debug\Lab01-04.exe.config
+\\Mac\Home\Downloads\2011064288_NguyenHoangPhuc_Lab\Lab01-04\bin\Debug\Lab01-04.exe
+\\Mac\Home\Downloads\2011064288_NguyenHoangPhuc_Lab\Lab01-04\bin\Debug\Lab01-04.pdb
+\\Mac\Home\Downloads\2011064288_NguyenHoangPhuc_Lab\Lab01-04\obj\Debug\Lab01-04.exe
+\\Mac\Home\Downloads\2011064288_NguyenHoangPhuc_Lab\Lab01-04\obj\Debug\Lab01-04.pdb
